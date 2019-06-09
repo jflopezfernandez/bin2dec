@@ -1,3 +1,4 @@
+
 # Prerequisites
 *.d
 
@@ -35,6 +36,7 @@
 *.i*86
 *.x86_64
 *.hex
+bin2dec
 
 # Debug files
 *.dSYM/
@@ -50,3 +52,4 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
